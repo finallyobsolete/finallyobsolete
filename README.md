@@ -4,11 +4,22 @@
 
 I'm currently a high school student, constantly fooling around with multiple programming languages. <br>
 At the moment, I'm focusing on experimenting with discord.js and constructing Discord bots. <br>
-I'm comfortable with Python 3, but I'm somewhat proficient in HTML, Javascript, and C++.
+I'm comfortable with Python 3, but I'm somewhat proficient in HTML, Javascript, C++, and some other languages.
 
 ### Languages & Tools 
-<i class="devicon-python-plain-wordmark"></i>
+<p>
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100" height="100"></a>
+<a href="https://www.cplusplus.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="100" height="100"></a>
+<a href="https://www.html.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="100" height="100"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="100" height="100"></a>
+</p>
+
+<p>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="100" height="100"></a>
+<a href="https://www.atom.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" width="100" height="100"></a>
+</p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weiyi-m&show_icons=true&theme=dark" alt="foop, not weiyi-m" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weiyi-m&show_icons=true&theme=dark" alt="foop" /></p>
