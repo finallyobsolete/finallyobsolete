@@ -2,7 +2,7 @@
 
 ### <h3 align="center">My name is Weiyi, or rather, foop.</h3>
 
-I'm currently a high school student, constantly fooling around with multiple programming languages. <br>
+I'm a high school student located in Singapore, constantly fooling around with multiple programming languages. <br>
 At the moment, I'm focusing on experimenting with discord.js and constructing Discord bots. <br>
 I'm comfortable with Python 3, but I'm somewhat proficient in HTML, Javascript, C++, and some other languages.
 
