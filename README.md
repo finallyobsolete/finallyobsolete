@@ -28,3 +28,4 @@ Lastly, I'm keeping tabs on the development of quantum computing, and how quantu
 <br>
 
 <p>&nbsp;<img src="https://github.com/weiyi-m/github-stats/blob/master/generated/overview.svg" alt="foop-overview" /><img src="https://github.com/weiyi-m/github-stats/blob/master/generated/languages.svg" alt="foop-languages"></p>
+<p style="font-size: 2px;">^ Stats generated from https://github.com/jstrieb/github-stats</p>
