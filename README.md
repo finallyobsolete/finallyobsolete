@@ -8,6 +8,7 @@ I'm comfortable with Python 3, and I'm somewhat proficient in HTML, Javascript, 
 
 I'm developing a website for DHS notes, which you can find at https://www.dhs-notes.study/. <br>
 Moreover, I'm using AI image recognition algorithms to monitor waste and identify hazardous or suspicious items being thrown into bins, or identification of waste type and allocating of weight of each waste types based on percentage.
+Lastly, I'm keeping tabs on the development of quantum computing, and how quantum mechanics can tie into our ordinary computational lives.
 
 
 ### Languages & Tools 
