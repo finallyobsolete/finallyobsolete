@@ -26,4 +26,4 @@ Moreover, I'm using AI image recognition algorithms to monitor waste and identif
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weiyi-m&show_icons=true&theme=dark" alt="foop" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/weiyi-m/github-stats/blob/master/generated/overview.svg" alt="foop-overview" /></p>
