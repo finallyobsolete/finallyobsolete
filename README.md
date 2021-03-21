@@ -7,6 +7,7 @@ At the moment, I'm focusing on experimenting with discord.js and constructing Di
 I'm comfortable with Python 3, and I'm somewhat proficient in HTML, Javascript, C++, and some other languages.
 
 I'm developing a website for DHS notes, which you can find at https://www.dhs-notes.study/. <br>
+Also, I'm creating a new Discord bot called The Janitor. <br>
 Moreover, I'm using AI image recognition algorithms to monitor waste and identify hazardous or suspicious items being thrown into bins, or identification of waste type and allocating of weight of each waste types based on percentage. <br>
 Lastly, I'm keeping tabs on the development of quantum computing, and how quantum mechanics can tie into our ordinary computational lives.
 
