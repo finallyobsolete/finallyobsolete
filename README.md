@@ -27,5 +27,6 @@ Lastly, I'm keeping tabs on the development of quantum computing, and how quantu
 
 <br>
 
-<p>&nbsp;<img src="https://github.com/weiyi-m/github-stats/blob/master/generated/overview.svg" alt="foop-overview" /><img src="https://github.com/weiyi-m/github-stats/blob/master/generated/languages.svg" alt="foop-languages"></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyi-m&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyi-m&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p style="font-size: 2px;">^ Stats generated from https://github.com/jstrieb/github-stats</p>
