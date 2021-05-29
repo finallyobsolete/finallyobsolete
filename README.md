@@ -38,6 +38,7 @@ The languages that I've used are:
 > CSS
 > C++
 
+
 Some projects I've done:
 > A website made specifically for notes from my school (dhs-notes)
 > 5 Discord bots, one of which I found motivation to work on for longer than a month (janitor-bot)
