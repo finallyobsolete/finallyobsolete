@@ -1,25 +1,73 @@
-# <h1 align="center">Hello.</h1>
-
-### <h3 align="center">My name is Weiyi, or rather, foop.</h3>
-
-I'm a high school student located in Singapore, constantly fooling around with multiple programming languages. <br>
-At the moment, I'm focusing on experimenting with discord.js and constructing Discord bots. <br>
-I'm comfortable with Python 3, and I'm somewhat proficient in HTML, Javascript, C++, and some other languages.
-
-### Languages & Tools 
-<p>
-<a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100" height="100"></a>
-<a href="https://www.cplusplus.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="100" height="100"></a>
-<a href="https://www.html.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="100" height="100"></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="100" height="100"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/location-singapore-ff0000">
+  <img src="https://img.shields.io/badge/grades-6%20passed%2C%201%20failed-red">
+  <img src="https://img.shields.io/badge/age-14-brightgreen">
+  <img src="https://img.shields.io/badge/OS-macOS-blue">
 </p>
 
-<p>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="100" height="100"></a>
-<a href="https://www.atom.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" width="100" height="100"></a>
-</p>
+<hr>
 
+``` 
+Last login: Sun May 30 00:07:44 on ttys000
+(base) weiyi@Macbook-Air ~ % npm install weiyi-m
+
+OK to continue?: (yes) yes
+
+|██████████████████--| 90.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.0.2
+
+
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ░░░░░░░░░░░▒█░░▒█░█▀▀░░▀░░█░░█░░▀░░░░▒█▀▄▀█░█▀▀▄░░░░░░█▀▀░▄▀▀▄░▄▀▀▄░▄▀▀▄░░░░░░░░░░
+   ░░░░░░░░░░░▒█▒█▒█░█▀▀░░█▀░█▄▄█░░█▀░░░▒█▒█▒█░█▄▄█░▄▄░░░█▀░░█░░█░█░░█░█▄▄█░░░░░░░░░░
+   ░░░░░░░░░░░▒▀▄▀▄▀░▀▀▀░▀▀▀░▄▄▄▀░▀▀▀░░░▒█░░▒█░▀░░▀░░█░░░▀░░░░▀▀░░░▀▀░░█░░░░░░░░░░░░░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+      Website and Discord Bot Developer • High School Student • Coffee Enthusiast
+      
+
+Hey there, here's more about me:
+> I'm a tireless seeker of knowledge who hopes to make a change to the world through design and innovation.
+> Currently working on building websites and coding Discord bots.
+> Learning about how quantum computing can wrap around and into our boring, monotonous lives.
+
+
+The languages that I've used are:
+> HTML (currently my most used language)
+> Python (most proficient in terms of programming languages)
+> Javascript (NodeJS, ES6, discord.js)
+> CSS
+> C++
+
+Some projects I've done:
+> A website made specifically for notes from my school (dhs-notes)
+> 5 Discord bots, one of which I found motivation to work on for longer than a month (janitor-bot)
+> A pong game built entirely using the Python Turtle module (turtle-pong)
+
+
+You can contact me by:
+> sending an email to help@dhs-notes.study
+> messaging foop#6142 on Discord
+> DM'ing @foop629 on Twitter
+> DM'ing u/foop629 on Reddit (as a last resort)
+
+
+Finishing up...
+All done! Thanks for getting to know me!
+
+(base) weiyi@Macbook-Air ~ % exit
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+
+```
+
+
+
+
+<hr>
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyi-m&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
