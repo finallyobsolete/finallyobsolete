@@ -22,7 +22,7 @@ OK to continue?: (yes) yes
    ░░░░░░░░░░░▒▀▄▀▄▀░▀▀▀░▀▀▀░▄▄▄▀░▀▀▀░░░▒█░░▒█░▀░░▀░░█░░░▀░░░░▀▀░░░▀▀░░█░░░░░░░░░░░░░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-      Website and Discord Bot Developer • High School Student • Coffee Enthusiast
+     Website and Discord Bot Developer • High School Student • Typing Enthusiast
       
 
 Hey there, here's more about me:
