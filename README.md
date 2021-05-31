@@ -40,7 +40,7 @@ The languages that I've used are:
 
 
 Some projects I've done:
-> A website made specifically for notes from my school (dhs-notes)
+> A Windows 95-themed website made specifically for notes from my school (dhs-notes)
 > 5 Discord bots, one of which I found motivation to work on for longer than a month (janitor-bot)
 > A pong game built entirely using the Python Turtle module (turtle-pong)
 
