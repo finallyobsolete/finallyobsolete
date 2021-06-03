@@ -23,6 +23,7 @@ OK to continue?: (yes) yes
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
      Website and Discord Bot Developer • High School Student • Typing Enthusiast
+                                 https://lolcringe.co
       
 
 Hey there, here's more about me:
