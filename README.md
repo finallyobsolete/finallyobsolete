@@ -47,7 +47,7 @@ Some projects I've done:
 
 
 You can contact me by:
-> sending an email to help@dhs-notes.study
+> sending an email to hello@lolcringe.co
 > messaging foop#6142 on Discord
 > DM'ing @foop629 on Twitter
 > DM'ing u/foop629 on Reddit (as a last resort)
