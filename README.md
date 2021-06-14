@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/location-singapore-ff0000">
-  <img src="https://img.shields.io/badge/grades-6%20passed%2C%201%20failed-red">
   <img src="https://img.shields.io/badge/age-14-brightgreen">
   <img src="https://img.shields.io/badge/OS-macOS-blue">
 </p>
