@@ -7,7 +7,7 @@
 <hr>
 
 ``` 
-Last login: Tue Jun 8 00:36:05 on ttys000
+Last login: Tue Jun 28 16:14:56 on ttys000
 (base) weiyi@Macbook-Air ~ % npm install weiyi-m
 
 OK to continue?: (yes) yes
@@ -33,10 +33,9 @@ Hey there, here's more about me:
 
 The languages that I've used are:
 > HTML (currently my most used language)
+> CSS
 > Python (most proficient in terms of programming languages)
 > Javascript (NodeJS, ES6, discord.js)
-> CSS
-> C++
 
 
 Some projects I've done:
