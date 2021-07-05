@@ -7,12 +7,12 @@
 <hr>
 
 ``` 
-Last login: Tue Jun 28 16:14:56 on ttys000
+Last login: Tue Jul 5 12:54:44 on ttys000
 (base) weiyi@Macbook-Air ~ % npm install weiyi-m
 
 OK to continue?: (yes) yes
 
-|██████████████████--| 90.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.0.2
+|██████████████████| 100.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.0.2
 
 
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
