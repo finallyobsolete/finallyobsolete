@@ -7,7 +7,7 @@
 <hr>
 
 ``` 
-Last login: Tue Jul 5 12:54:44 on ttys000
+Last login: Mon Jul 5 12:54:59 on ttys000
 (base) weiyi@Macbook-Air ~ % npm install weiyi-m
 
 OK to continue?: (yes) yes
