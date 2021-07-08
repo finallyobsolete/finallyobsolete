@@ -7,7 +7,7 @@
 <hr>
 
 ``` 
-Last login: Mon Jul 5 12:54:59 on ttys000
+Last login: Mon Jul 8 20:10:15 on ttys000
 (base) weiyi@Macbook-Air ~ % npm install weiyi-m
 
 OK to continue?: (yes) yes
@@ -40,15 +40,17 @@ The languages that I've used are:
 
 Some projects I've done:
 > A Windows 95-themed website made specifically for notes from my school (dhs-notes)
-> 5 Discord bots, one of which I found motivation to work on for longer than a month (janitor-bot)
+> 6 Discord bots, two of which I found motivation to work on (janitor-bot and gitbot)
 > A pong game built entirely using the Python Turtle module (turtle-pong)
+> A collection of 39 mini-projects built within the span of a week (mlh-init-2022)
+> And a lot more things that you can view by clicking on the repository tab!
 
 
 You can contact me by:
 > sending an email to hello@lolcringe.co
+> sending a message to https://poly.work/foop
 > messaging foop#6142 on Discord
-> DM'ing @foop629 on Twitter
-> DM'ing u/foop629 on Reddit (as a last resort)
+> DM'ing @thermopmeter on Twitter
 
 
 Finishing up...
