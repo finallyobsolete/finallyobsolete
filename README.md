@@ -7,11 +7,11 @@
 
 ``` 
 Last login: Mon Jul 8 20:10:15 on ttys000
-(base) weiyi@Macbook-Air ~ % npm install weiyi-m
+(base) weiyi@Macbook-Air ~ % weiyi-m
 
 OK to continue?: (yes) yes
 
-|██████████████████| 100.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.0.2
+|██████████████████| 100.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.0.7
 
 
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
