@@ -6,7 +6,7 @@
 <hr>
 
 ``` 
-Last login: Mon Jul 8 09:18:47 on ttys000
+Last login: Tue Jul 13 09:19:06 on ttys000
 (base) weiyi@Macbook-Air ~ % weiyi-m
 
 OK to continue?: (yes) yes
