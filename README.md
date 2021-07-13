@@ -6,12 +6,12 @@
 <hr>
 
 ``` 
-Last login: Mon Jul 8 20:10:15 on ttys000
+Last login: Mon Jul 8 09:18:47 on ttys000
 (base) weiyi@Macbook-Air ~ % weiyi-m
 
 OK to continue?: (yes) yes
 
-|██████████████████| 100.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.0.7
+|██████████████████| 100.0% complete - idealTree:~: timing weiyi-m:loadBundles @weiyi-m/readme@2.1.0
 
 
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -73,3 +73,4 @@ Saving session...
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyi-m&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyi-m&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weiyi-m&theme=highcontrast)](https://git.io/streak-stats)
