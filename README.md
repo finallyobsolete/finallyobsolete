@@ -1,17 +1,3 @@
-<style>
-.col {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-  
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
 <p align="center">
   <img src="https://img.shields.io/badge/location-singapore-ff0000">
   <img src="https://img.shields.io/badge/machine-Macbook Air 2020-blue">
@@ -82,20 +68,14 @@ Saving session...
 
 
 
-
 <hr>
 <br>
 
-<h3 align="center">
+<h2 align="center">
   Fancy Github Statistics and Things and Projects That Show More Technical Information About Me
-</h3>
+</h2>
 
-<div class="row">
-  <div class="col">
-    <img src="https://metrics.lecoq.io/weiyi-m?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=dhs-notes.study&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FSingapore">
-  </div>
-  <div class="col">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=weiyi-m&theme=highcontrast">
-  </div>
-</div>
+<p align="center">
+  <img src="https://metrics.lecoq.io/weiyi-m?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=dhs-notes.study&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FSingapore">
+</p>
 
