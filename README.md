@@ -76,6 +76,6 @@ Saving session...
 </h2>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/weiyi-m?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=dhs-notes.study&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FSingapore">
+  <img src="https://github.com/weiyi-m/weiyi-m/blob/main/github-metrics.svg">
 </p>
 
