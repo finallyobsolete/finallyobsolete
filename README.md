@@ -32,7 +32,7 @@ Hey there, here's more about me:
 
 
 The languages that I've used are:
-> HTML (currently my most used language)
+> HTML 
 > CSS
 > Python (most proficient in terms of programming languages)
 > Javascript (NodeJS, ES6, discord.js)
