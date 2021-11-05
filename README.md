@@ -48,9 +48,7 @@ Some projects I've done:
 
 You can contact me by:
 > sending an email to hello@lolcringe.co
-> sending a message to https://poly.work/foop
 > messaging foop#6142 on Discord
-> DM'ing @thermopmeter on Twitter
 
 
 Finishing up...
