@@ -39,9 +39,7 @@ The languages that I've used are:
 
 
 Some projects I've done:
-> A Windows 95-themed website made specifically for notes from my school (dhs-notes)
-> 6 Discord bots, two of which I found motivation to work on (janitor-bot and gitbot)
-> A pong game built entirely using the Python Turtle module (turtle-pong)
+> Two Discord bots of which I found motivation to work on (Janitor and Gitbot)
 > A collection of 39 mini-projects built within the span of a week (mlh-init-2022)
 > And a lot more things that you can view by clicking on the repository tab!
 
