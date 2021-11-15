@@ -36,11 +36,6 @@ Languages:
 > Javascript (Node, discord.js)
 > C++
 
-You can contact me by:
-> sending an email to hello@lolcringe.co
-> messaging foop#6142 on Discord
-
-
 Finishing up...
 All done! Thanks for getting to know me!
 
