@@ -61,6 +61,6 @@ Saving session...
 
 
 <p align="center">
-  <img src="https://github.com/weiyi-m/weiyi-m/blob/main/github-metrics.svg">
+  <img src="https://github.com/object-oriented-human/object-oriented-human/blob/main/github-metrics.svg">
 </p>
 
