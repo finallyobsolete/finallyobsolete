@@ -11,7 +11,7 @@
 
 OK to continue?: (yes) yes
 
-|██████████████████| 100.0% complete - foop:loadBundles @foop/readme@3.0.0
+|██████████████████| 100.0% complete - foop:loadBundles @foop/readme@3.1.0
 
 
 
@@ -26,8 +26,8 @@ OK to continue?: (yes) yes
       
 
 About:
-> I'm a tireless seeker of knowledge who hopes to make a change to the world through design and innovation.
 > Currently working on building websites and coding Discord bots.
+> Also learning.
 
 Languages:
 > HTML 
