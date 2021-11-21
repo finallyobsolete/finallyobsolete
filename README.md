@@ -11,7 +11,7 @@
 
 OK to continue?: (yes) yes
 
-|██████████████████| 100.0% complete - foop:loadBundles @foop/readme@3.1.0
+|██████████████████| 100.0% complete - foop:loadBundles @foop/readme@3.1.1
 
 
 
@@ -23,11 +23,16 @@ OK to continue?: (yes) yes
      ░░░░░░░░░░░░░░░░░░░░░░░╚═╝░░░░░░╚════╝░░╚════╝░╚═╝░░░░░░░░░░░░░░░░░░░░░░░░░
 
      Website and Discord Bot Developer • High School Student • Typing Enthusiast
-      
 
 About:
-> Currently working on building websites and coding Discord bots.
-> Also learning.
+> Student.
+> Lives in Singapore.
+> Enjoys books, poems and music.
+
+Currently:
+> Focusing on competitive programming and algorithms.
+> Working on building websites and coding Discord bots as a hobby.
+> Learning about machine learning and artificial intelligence.
 
 Languages:
 > HTML 
@@ -35,6 +40,9 @@ Languages:
 > Python
 > Javascript (Node, discord.js)
 > C++
+
+Contact:
+> NIL.
 
 Finishing up...
 All done! Thanks for getting to know me!
