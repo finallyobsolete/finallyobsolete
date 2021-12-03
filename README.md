@@ -29,11 +29,6 @@ About:
 > Lives in Singapore.
 > Enjoys books, poems and music.
 
-Currently:
-> Focusing on competitive programming and algorithms.
-> Working on building websites and coding Discord bots as a hobby.
-> Learning about machine learning and artificial intelligence.
-
 Languages:
 > HTML 
 > CSS
