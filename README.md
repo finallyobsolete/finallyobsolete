@@ -6,12 +6,12 @@
 <hr>
 
 
-``` 
+```
 (base) foop@toaster ~ % foop
 
 OK to continue?: (yes) yes
 
-|██████████████████| 100.0% complete - foop:loadBundles @foop/readme@3.1.1
+|██████████████████| 100.0% complete - foop:loadBundles @foop/readme@3.2.0
 
 
 
@@ -27,32 +27,33 @@ OK to continue?: (yes) yes
 About:
 > Student.
 > Lives in Singapore.
-> Enjoys books, poems and music.
+> Enjoys books, poems, music, and keyboards.
 
 Languages:
-> HTML 
-> CSS
 > Python
-> Javascript (Node, discord.js)
 > C++
+> HTML5
+> CSS3
+> JavaScript
 
-Contact:
-> NIL.
+IDE:
+> Visual Studio Code
+> Google Colaboratory
+
+Libraries & Frameworks:
+> NumPy
+> Pandas
+> Matplotlib
+> scikit-learn
+
+Platforms:
+> Google Cloud Platform
+> Firebase
+> Github Pages
 
 Finishing up...
 All done! Thanks for getting to know me!
-
-(base) foop@toaster ~ % exit
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-[Process completed]
-
 ```
-
-
 
 <hr>
 <br>
