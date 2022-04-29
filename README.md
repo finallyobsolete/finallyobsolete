@@ -1,7 +1,6 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/location-singapore-ff0000"></a>
   <a href="#"><img src="https://img.shields.io/badge/machine-Macbook Air 2020-blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/ㅤ-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-69ff69"></a>
 </p>
 
 <hr>
