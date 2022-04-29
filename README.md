@@ -7,7 +7,7 @@
 
 
 ```
-(base) foop@toaster ~ % basil
+(base) foooop@toaster ~ % basil
 
 OK to continue?: (yes) yes
 
