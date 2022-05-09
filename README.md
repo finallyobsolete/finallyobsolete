@@ -31,7 +31,7 @@ OK to continue?: (yes) yes
 About:
 > Student.
 > Lives in Singapore.
-> Enjoys literature, poetry, music, and keyboards.
+> Enjoys literature, music, math, and capybaras.
 
 Languages:
 > Python
