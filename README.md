@@ -1,3 +1,7 @@
+# main account @ https://gitlab.com/objected
+
+<!--
+
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/location-singapore-ff0000"></a>
   <a href="#"><img src="https://img.shields.io/badge/machine-Macbook Air 2020-blue"></a>
@@ -67,3 +71,4 @@ All done! Thanks for getting to know me!
   <img src="https://github.com/object-oriented-human/object-oriented-human/blob/main/github-metrics.svg">
 </p>
 
+-->
