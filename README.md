@@ -1,4 +1,4 @@
-# main account @ https://gitlab.com/objected
+# main account @ https://github.com/objecteds/
 
 <!--
 
